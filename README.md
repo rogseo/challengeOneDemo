@@ -6,17 +6,17 @@ Refactor to help to describe its structure and indicate the purpose of different
 The new elements provide cleaer code (compared with using multiple <div>
 
 ## New Element in HTML
-* header
+### header
 containing the site name and the main navigation
-* footer
+### footer
 contains copyright information
-* nav
-the navication in a <nav>
-* article
+### nav
+the navication
+### article
 the articles 
-* section
+### section
 group related content together
-* aside
+### aside
 
 ## Refactred CSS
 reduce dulicate rules
