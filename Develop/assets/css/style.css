@@ -13,6 +13,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
 }
 
 .header h1 {
@@ -33,7 +34,7 @@ body {
 }
 
 .header nav ul {
-    list-style-type: none;
+    list-style-type:none;
 }
 
 .header nav ul li {
