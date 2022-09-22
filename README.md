@@ -3,9 +3,9 @@
 ## Purpose
 
 Refactor to help to describe its structure and indicate the purpose of different parts of a web page.
-The new elements provide cleaer code (compared with using multiple <div>
+The new elements provide cleaer code (compared with using multiple divs)
 
-## New Element in HTML
+## What changed in HTML
 ### header
 containing the site name and the main navigation
 ### footer
