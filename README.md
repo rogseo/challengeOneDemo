@@ -5,24 +5,21 @@
 Refactor to help to describe its structure and indicate the purpose of different parts of a web page.
 The new elements provide cleaer code (compared with using multiple <div>
 
-
 ## New Element in HTML
-###<header>
+* header
 containing the site name and the main navigation
-###<footer>
+* footer
 contains copyright information
-###<nav>
+* nav
 the navication in a <nav>
-###<article>
+* article
 the articles 
-###<section>
+* section
 group related content together
-###<aside>
+* aside
 
-##Refactred CSS
+## Refactred CSS
 reduce dulicate rules
-
-
 
 ### Reference
 HTML & CSS: Design and Build Websites / Jon Duckett / Published by Wiley
